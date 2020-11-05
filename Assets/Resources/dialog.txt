@@ -1,0 +1,30 @@
+{"Dialog":
+[{"id":"0","Reply":
+	[{"id":"0","text":"Singe: Bonjour mon ami!","isPng":"true"},
+	 {"id":"1","text":"Joueur: Bonjour ","isPng":"false"},
+	 {"id":"2","text":"Singe: J'ai besoin de ton aide pour sauver la foret","isPng":"true"},
+	 {"id":"3","text":"Comment je pourrais vous aider?","isPng":"true"},
+	 {"id":"3","text":"Il faut nous aider à planter les arbres qui nous permettent de respire","isPng":"true"}
+	 ]
+},
+
+{"id":"1","Reply":
+	[{"id":"0","text":"can you feel me Turtle","isPng":"true"},
+	 {"id":"1","text":"hey youuu","isPng":"true"},
+	 {"id":"2","text":"don't help them to burry the liiight!!","isPng":"true"}
+	 ]
+},
+{"id":"2","Reply":
+	[{"id":"0","text":"can you feel me Fish","isPng":"true"},
+	 {"id":"1","text":"hey youuu","isPng":"true"},
+	 {"id":"2","text":"don't help them to burry the liiight!!","isPng":"true"}
+	 ]
+},
+{"id":"3","Reply":
+	[{"id":"0","text":"Hello Boy","isPng":"true"},
+	 {"id":"1","text":"Can you help me sort ","isPng":"true"},
+	 {"id":"2","text":"Yes mylord","isPng":"true"}
+	 ]
+}
+]
+}
